@@ -1,10 +1,12 @@
-//
-//  AppDelegate.swift
-//  MineSweeper
-//
-//  Created by Sai Krishna Bandaru on 4/9/16.
-//  Copyright © 2016 Sai Krishna Bandaru. All rights reserved.
-//
+////////////////////////////////////////////////////////////////////
+//  MineSweeper                                                   //
+//  This is a game application where in user can play minesweeper //
+//  on iphones                                                    //
+//  AppDelegate.swift                                             //
+//  Created by Sai Krishna Bandaru on 4/9/16.                     //
+//  Copyright © 2016 Sai Krishna Bandaru. All rights reserved.    //
+////////////////////////////////////////////////////////////////////
+
 
 import UIKit
 
